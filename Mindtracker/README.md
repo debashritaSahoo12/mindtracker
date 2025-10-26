@@ -199,14 +199,6 @@ The frontend will be running on `http://localhost:3000`
 3. Set output directory: `dist`
 4. Deploy
 
-### Environment Variables for Production
-```env
-NODE_ENV=production
-MONGODB_URI=your_production_mongodb_uri
-JWT_SECRET=your_production_jwt_secret
-FRONTEND_URL=your_frontend_url
-```
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -236,3 +228,4 @@ If you have any questions or need help, please:
 ---
 
 **Happy Tracking! 🎯✨**
+
